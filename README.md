@@ -20,10 +20,3 @@ This project uses **MobileNetV2** with **Keras** to predict a person’s **age**
   - Bald
 
 
-📁 Example Output
-
-Predicted Age: 36.4
-beard: Yes
-wrinkles: No
-...
-
